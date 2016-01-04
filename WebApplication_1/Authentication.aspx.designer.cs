@@ -10,6 +10,6 @@
 namespace WebApplication_1 {
     
     
-    public partial class Blog {
+    public partial class Authentication {
     }
 }
