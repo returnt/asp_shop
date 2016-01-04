@@ -223,7 +223,6 @@
     <Content Include="Terms.aspx" />
     <Content Include="Trackyourorder.aspx" />
     <Content Include="Wishlist.aspx" />
-    <Content Include="Сart.aspx" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="Scripts\ai.0.15.0-build58334.js" />
     <Content Include="Scripts\ai.0.15.0-build58334.min.js" />
@@ -522,13 +521,6 @@
     </Compile>
     <Compile Include="Wishlist.aspx.designer.cs">
       <DependentUpon>Wishlist.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="Сart.aspx.cs">
-      <DependentUpon>Сart.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="Сart.aspx.designer.cs">
-      <DependentUpon>Сart.aspx</DependentUpon>
     </Compile>
   </ItemGroup>
   <ItemGroup>
