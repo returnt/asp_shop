@@ -7,7 +7,7 @@ using System.Web.UI.WebControls;
 
 namespace WebApplication_1
 {
-    public partial class Checkout : System.Web.UI.Page
+    public partial class Checkout : Page
     {
         protected void Page_Load(object sender, EventArgs e)
         {
