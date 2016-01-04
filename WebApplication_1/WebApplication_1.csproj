@@ -202,6 +202,7 @@
     <Content Include="Authentication.aspx" />
     <Content Include="Blog.aspx" />
     <Content Include="Blogpost.aspx" />
+    <Content Include="cart.aspx" />
     <Content Include="Categorygrid.aspx" />
     <Content Include="Checkout.aspx" />
     <Content Include="Compare.aspx" />
@@ -417,6 +418,13 @@
     </Compile>
     <Compile Include="Blogpost.aspx.designer.cs">
       <DependentUpon>Blogpost.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="cart.aspx.cs">
+      <DependentUpon>cart.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="cart.aspx.designer.cs">
+      <DependentUpon>cart.aspx</DependentUpon>
     </Compile>
     <Compile Include="Categorygrid.aspx.cs">
       <DependentUpon>Categorygrid.aspx</DependentUpon>
